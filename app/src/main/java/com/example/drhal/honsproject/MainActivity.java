@@ -97,7 +97,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                         } else {
                             Toast.makeText(MainActivity.this, "Registration Failed", Toast.LENGTH_SHORT).show();
                         }
-                        progressDialog.dismiss();
+                        progressDialog.dismiss();///
                     }
                 });
     }
