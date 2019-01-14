@@ -102,6 +102,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 });
     }
 
+    // this is a test for git
+
 @Override
     public void onClick(View v) {
     if (v == buttonRegister) {
